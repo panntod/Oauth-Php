@@ -1,0 +1,14 @@
+<?php
+require_once 'vendor/autoload.php';
+
+$clientID = 'Your Id Client';
+$clientSecret = 'Your Secret Code Client';
+$redirectURI = 'http://localhost/oauth-google/sign_in.php';
+
+// CREATE CLIENT REQUEST TO GOOGLE
+$client = new Google_Client();
+$client->setClientId($clientID);
+$client->setClientSecret($clientSecret);
+$client->setRedirectUri($redirectURI);
+$client->addScope('profile');
+$client->addScope('email');

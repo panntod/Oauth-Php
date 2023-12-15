@@ -23,7 +23,6 @@ Pastikan sudah membuat OAuth Google Project atau buat menggunakan link ini:
 setelah itu masukan token api yang telah didapatkan ke dalam `config.php`
 
 ```php
- {
       <?php
       require_once 'vendor/autoload.php';
       
@@ -38,7 +37,6 @@ setelah itu masukan token api yang telah didapatkan ke dalam `config.php`
       $client->setRedirectUri($redirectURI);
       $client->addScope('profile');
       $client->addScope('email');
-  },
 ```
 
 ### Langkah 3:

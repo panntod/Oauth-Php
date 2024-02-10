@@ -1,14 +1,14 @@
-# OAuth Google 2.0
+# OAuth Google 2.0 🌐
 
 ## Deskripsi
 
-Dalam repo ini, mengimplementasikan OAuth atau outentikasi menggunakan layanan dari google (versi 2.0), digunakan untuk melihat data data yang dapat di olah untuk disimpan ke database web yang dikirimkan melalui Google OAuth, menggunakan php untuk mengimplementasikan code
+Dalam repo ini, mengeksplorasi implementasi OAuth atau autentikasi menggunakan layanan dari Google (versi 2.0). Penggunaannya tidak hanya terbatas pada autentikasi, tetapi juga memungkinkan untuk melihat dan mengelola data yang dapat diolah dan disimpan ke dalam database web melalui Google OAuth. Pengembangan menggunakan PHP untuk mengimplementasikan kode yang efektif.
 
 ## Fitur
 
-- Rest API
-- OAuth Google (v2.0)
-- Passport/ Coockie
+- Rest API 🌐
+- OAuth Google (v2.0) 🔐
+- Passport/ Cookie 🍪
 
 ## Cara Membuat Aplikasi
 

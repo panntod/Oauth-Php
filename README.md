@@ -41,7 +41,7 @@ setelah itu masukan token api yang telah didapatkan ke dalam `config.php`
 
 ### Langkah 3:
 
-dan digunakan untuk memproses `login.js` untuk menyimpan data yang akan dikirim ke Google
+dan digunakan untuk memproses `login.php` untuk menyimpan data yang akan dikirim ke Google
 
 ```php
        <?php
